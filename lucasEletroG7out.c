@@ -9,6 +9,7 @@ int main() {
         float notaBimestre4;
         float somabimestres; 
         
+        printf("Informe qual sua nota do bimetre 1: ");
         scanf("%f", &notaBimestre1);
 
         printf("Informe qual sua nota do bimetre 2: ");
